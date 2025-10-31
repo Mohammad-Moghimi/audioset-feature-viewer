@@ -15,7 +15,6 @@ This script opens one shard, reads one example, prints the metadata, and shows t
 
 - `view_audioset_feature.py` — CLI to read and display one example.
 - `requirements.txt` — Python deps.
-- `examples/` — Optional example commands.
 - `.gitignore` — Housekeeping.
 
 ---
